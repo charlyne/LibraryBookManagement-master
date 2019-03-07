@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="workspace:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/workspace_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="workspace" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="gson-2.8.51" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="workspace/web/Web" />
+      <element id="javaee-facet-resources" facet="workspace/web/Web2" />
+      <element id="javaee-facet-resources" facet="workspace/web/Web3" />
+      <element id="javaee-facet-resources" facet="workspace/web/Web4" />
+    </root>
+  </artifact>
+</component>
